@@ -189,6 +189,17 @@ May to July is a $10M swing. That is a pattern worth planning around.
 
 ## 📸 Dashboard Preview
 
+## Excutive Overview
+![Dashboard Preview](Executive_overview.png)
+
+## Customer Analysis
+![Dashboard Preview](Customer_analysis.png)
+
+## Product Analysis
+![Dashboard Preview](Product_analysis.png)
+
+## Regional Analysis
+![Dashboard Preview](Regional_analysis.png)
 
 
 ---
